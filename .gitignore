@@ -1,0 +1,13 @@
+#################
+##GENERAL
+#################
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+*.log
+sitemap.xml
+sitemap.xml.gz
+tests/*
